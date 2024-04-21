@@ -15,9 +15,9 @@ npm start or npx expo start
 
 ## Preview of the APP
 
-<img src="" width="250" alt="TodoListapp" />
-<img src="" width="250" alt="TodoListapp" />
-<img src="" width="250" alt="TodoListapp" />
+<img src="https://github.com/maddirsy/Todolistapp/blob/main/image1.png" width="250" alt="TodoListapp" />
+<img src="https://github.com/maddirsy/Todolistapp/blob/main/image2.png" width="250" alt="TodoListapp" />
+<img src="https://github.com/maddirsy/Todolistapp/blob/main/image3.png" width="250" alt="TodoListapp" />
 
 ## Video Link
 

@@ -31,3 +31,4 @@ In developing a todo list app in React Native, the key files used are:
 - TaskItem.js: Defines the structure and behavior of each task item displayed in the list.
 - TaskList.js: Orchestrates the rendering and management of the entire list of tasks within the app.
 
+https://github.com/maddirsy/Todolistapp/assets/155934919/55de2ab6-7116-469f-870a-28a11bf2e608
